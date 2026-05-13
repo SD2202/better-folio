@@ -6,7 +6,7 @@ import Navbar from "./components/navigation/Navbar";
 import useLenisScroll from "./hooks/useLenis";
 import Hero from "./sections/Hero";
 import About from "./sections/About";
-import Projects from "./sections/Projects";
+import Projects from "./sections/projects";
 import Certificates from "./sections/Certificates";
 import Contact from "./sections/Contact";
 
